@@ -1,6 +1,11 @@
 # CricBuzz Bot
 
 > Yet another cricbuzz bot in telegram 
+* Installation (easy way)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CW4RR10R/CircBuzz-bot/tree/master)
+
+* Installation (recommended)
 
 * Installation
 ```bash
