@@ -1,7 +1,7 @@
 {
   "name": "CircBuzz Bot",
   "description": "Yet another circbuzz bot in telegram.",
-  "repository": "https://github.com/CW4RR10R/CircBuzz-bot",
+  "repository": "https://github.com/chittaranjan2020/CircBuzz-bot",
   "logo": "https://telegra.ph/file/71a3a5ab8024c99eff716.jpg",
   "keywords": ["Telegram Bot","CricBuzz"],
   "env": {
